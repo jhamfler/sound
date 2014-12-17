@@ -1,0 +1,1 @@
+./a.out | padsp tee /dev/audio > /dev/null
